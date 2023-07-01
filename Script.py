@@ -305,7 +305,7 @@ Delete A Lot Of Messages From Groups!
       
     START_KICK = """🚮 Removing Inactive Members This May Take A While..."""
       
-    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആക്കത്ത സ്ഥലത്ത് ഞാൻ നിക്കില്ല പോകുവാ Bii..Add Me Again with all admin rights.</b>"""
+    ADMIN_REQUIRED = """❗<b>★ɪ ᴡɪʟʟ ɴᴏᴛ ɢᴏ ᴛᴏ ᴛʜᴇ ᴘʟᴀᴄᴇ ᴡʜᴇʀᴇ ɪ ᴀᴍ ɴᴏᴛ ᴍᴀᴅᴇ ᴀᴅᴍɪɴ.. ᴀᴅᴅ ᴍᴇ ᴀɢᴀɪɴ ᴡɪᴛʜ ᴀʟʟ ᴀᴅᴍɪɴ ʀɪɢʜᴛꜱ.</b>"""
       
     DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
       
